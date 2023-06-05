@@ -1,0 +1,16 @@
+body {
+    padding: 10px;
+}
+
+h4 {
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+    padding-top: 35vh;
+}
+
+#hex, #rgb {
+    font-size: 30px;
+}
